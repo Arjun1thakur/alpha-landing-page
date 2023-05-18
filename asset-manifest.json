@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bc61146.css",
+    "main.js": "/static/js/main.e3435ef3.js",
+    "static/media/BlueCar.png": "/static/media/BlueCar.95d6dc5fe0c53f4fed9b.png",
+    "static/media/grass.png": "/static/media/grass.edd69970ad07c5e5fee2.png",
+    "static/media/yellowCar.png": "/static/media/yellowCar.eb6abb2353dfe712a45f.png",
+    "static/media/aktifoa-medium.otf": "/static/media/aktifoa-medium.20acedec6f9afe3093cc.otf",
+    "static/media/aktifoa-light.otf": "/static/media/aktifoa-light.01de58f91839ad29824b.otf",
+    "static/media/slot2.svg": "/static/media/slot2.a5e1335a8e0c501466f0f96fd53623f0.svg",
+    "static/media/slot1.svg": "/static/media/slot1.bcec0fcd4cebdcf2caad146fb37d8e97.svg",
+    "static/media/Quality.svg": "/static/media/Quality.616d7b55bdaa662a8e673b98eb856fd7.svg",
+    "static/media/slot3.svg": "/static/media/slot3.0b034b542833563f308fce6e88c6c93c.svg",
+    "static/media/High.svg": "/static/media/High.cd8cbd3a6e545ee47ecdd306924ad4c8.svg",
+    "static/media/Exchanged.svg": "/static/media/Exchanged.086f0f3a71422651d9ee45d0bb85401e.svg",
+    "index.html": "/index.html",
+    "static/media/slot4.svg": "/static/media/slot4.3a08c155a4319470e44e5cd3d275671b.svg",
+    "main.5bc61146.css.map": "/static/css/main.5bc61146.css.map",
+    "main.e3435ef3.js.map": "/static/js/main.e3435ef3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bc61146.css",
+    "static/js/main.e3435ef3.js"
+  ]
+}
